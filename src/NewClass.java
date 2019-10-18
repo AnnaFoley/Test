@@ -3,22 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package test;
 
 /**
  *
  * @author 117434434
  */
-public class Test {
-
+public class NewClass {
     
-    
-  
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
-    
+    private int num1,num2;
+     num1 = 2;
+     num2 = 3;
+     
 }
